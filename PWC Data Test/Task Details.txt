@@ -1,0 +1,7 @@
+1. Road Accident Test - This test is essentially a "role play" exercise designed to simulate what a typical engagement could look like as a member of our Data Analytics team. In the data set you will receive, there are ~50,000 records - where a record is a single accident [ACCIDENT.csv]. The problem is loosely defined, but we expect you to analyse the data and come up with some real world hypothesis/policies/initiatives that they could use to  improve the road accident rate. You are free to use the software you are most comfortable with (Excel, Tableau, etc) to present your analysis. 
+
+
+Hint: Not all tables/fields may be necessary and you may need to join the tables on key fields.
+
+
+2. SQL - instructions as per SQL file
