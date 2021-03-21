@@ -1,0 +1,19 @@
+h1,h2{
+    color: darkslategrey;
+    font-family: monospace;
+}
+            
+#instructions{
+    color: darkslateblue;
+    border: 1px solid black;
+    font-family: serif;
+}
+            
+div.toolTip {	
+    text-align: center;			
+    width: 150px;					
+    height: 55px;					
+    font: 12px Arial;		
+    background: floralwhite ;	
+    border-radius: 8px;			
+}
